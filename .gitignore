@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+
+.DS_Store
+*.log
+*.js.map
+*.d.ts

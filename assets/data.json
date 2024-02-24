@@ -1,0 +1,13 @@
+{
+  "type": "rect",
+  "left": -1,
+  "top": -1,
+  "width": 962,
+  "height": 542,
+  "fill": "#1B1B1B",
+  "conrolTitle": "Background Color",
+  "id": "background",
+  "importantColor": true,
+  "selectable": false,
+  "evented": false
+}
